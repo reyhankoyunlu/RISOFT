@@ -1,0 +1,15 @@
+D:\yedek\Desktop\RISOFT\RISOFT\RISOFT\bin\Debug\RISOFT.exe.config
+D:\yedek\Desktop\RISOFT\RISOFT\RISOFT\bin\Debug\RISOFT.exe
+D:\yedek\Desktop\RISOFT\RISOFT\RISOFT\bin\Debug\RISOFT.pdb
+D:\yedek\Desktop\RISOFT\RISOFT\RISOFT\obj\Debug\RISOFT.csprojAssemblyReference.cache
+D:\yedek\Desktop\RISOFT\RISOFT\RISOFT\obj\Debug\RISOFT.RISOFT.resources
+D:\yedek\Desktop\RISOFT\RISOFT\RISOFT\obj\Debug\RISOFT.Properties.Resources.resources
+D:\yedek\Desktop\RISOFT\RISOFT\RISOFT\obj\Debug\RISOFT.csproj.GenerateResource.cache
+D:\yedek\Desktop\RISOFT\RISOFT\RISOFT\obj\Debug\RISOFT.csproj.CoreCompileInputs.cache
+D:\yedek\Desktop\RISOFT\RISOFT\RISOFT\obj\Debug\RISOFT.exe
+D:\yedek\Desktop\RISOFT\RISOFT\RISOFT\obj\Debug\RISOFT.pdb
+D:\yedek\Desktop\RISOFT\RISOFT\RISOFT\obj\Debug\RISOFT.siparisbilgi.resources
+D:\yedek\Desktop\RISOFT\RISOFT\RISOFT\obj\Debug\RISOFT.urunbilgisi.resources
+D:\yedek\Desktop\RISOFT\RISOFT\RISOFT\obj\Debug\RISOFT.calisanbilgisi.resources
+D:\yedek\Desktop\RISOFT\RISOFT\RISOFT\obj\Debug\RISOFT.musteribilgisi.resources
+D:\yedek\Desktop\RISOFT\RISOFT\RISOFT\obj\Debug\RISOFT.kullanicigiris.resources
